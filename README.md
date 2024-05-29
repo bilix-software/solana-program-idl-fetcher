@@ -5,7 +5,7 @@ This repository provides tools and scripts for fetching the Interface Definition
 ## Example
 In this example you can see me run the script for the pump.fun program and the marinade finance program
 
-![Example Output](solana-idl-fetcher.mp4)
+https://github.com/bilix-software/solana-program-idl-fetcher/assets/170088768/005e2871-1867-4e0e-84eb-3116fa9eae27
 
 ## Features
 
