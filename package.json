@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/web3.js": "^1.91.8",
+    "pako": "^2.1.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/pako": "^2.0.3",
+    "@types/prompt-sync": "^4.2.3"
+  }
+}
