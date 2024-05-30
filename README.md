@@ -105,3 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Feel free to contact [info@bilix.io](mailto:info@bilix.io) for more details or any queries.
+
+## Tips
+JATt1ta9GcbVMThdL18rXUqHn3toCMjWkHWtxM5WN3ec
